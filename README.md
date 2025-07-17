@@ -1,4 +1,16 @@
-*EN*
+# Contents/Оглавление
+
+* [EN](#en)
+    * [Sentiment Analysis — EDA](#sentiment-analysis--eda)
+    * [Model Training & Evaluation](#model-training--evaluation)
+    * [Summary](#summary)
+* [RU](#ru)
+    * [Анализ — EDA](#анализ--eda)
+    * [Обучение и оценка модели](#обучение-и-оценка-модели)
+    * [Краткое содержание](#краткое-содержание)
+
+
+# *EN*
 
 # Sentiment Analysis — EDA
 
@@ -107,7 +119,7 @@ Distribution of review lengths: most between **100–400 words**
 
 ---
 
-### 🔹 Word Frequency Analysis
+### Word Frequency Analysis
 
 Top 20 most common words by class:
 
@@ -195,7 +207,7 @@ Models and metrics saved to `/models/`:
 
 ---
 
-*EN*
+# *RU*
 
 # Анализ — EDA
 
@@ -300,7 +312,7 @@ imdb-sentiment-analysis-nlp/
 
 ---
 
-### 🔹 Анализ частоты слов
+### Анализ частоты слов
 
 20 самых распространённых слов по классам:
 
