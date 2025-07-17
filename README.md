@@ -20,14 +20,23 @@ The goal is to identify which approach provides better generalization for sentim
 ## Project Structure
 
 imdb-sentiment-analysis-nlp/
+
 ├── data/ # Raw dataset
+
 ├── notebooks/EDA.ipynb # Exploratory analysis, visualization
+
 ├── src/
+
 │ ├── preprocess.py # Preprocessing for TF-IDF and Word2Vec
+
 │ ├── train_td-idf.py # Training with TF-IDF
+
 │ └── train_w2v.py # Training with Word2Vec
+
 ├── plots/ # ROC, confusion matrix, barplots
+
 ├── models/ # Saved models, vectorizers, metrics
+
 └── README.md
 
 ---
@@ -207,14 +216,23 @@ Models and metrics saved to `/models/`:
 ## Структура проекта
 
 imdb-sentiment-analysis-nlp/
+
 ├── data/ # Raw dataset
+
 ├── notebooks/EDA.ipynb # Исследовательский анализ, визуализация
+
 ├── src/
+
 │ ├── preprocess.py # Предварительная обработка для TF-IDF и Word2Vec
+
 │ ├── train_td-idf.py # Обучение с TF-IDF
+
 │ └── train_w2v.py # Обучение с Word2Vec
+
 ├── plots/ # ROC, confusion matrix, barplots
+
 ├── models/ # Сохранённые модели, векторизаторы, метрики
+
 └── README.md
 
 ---
