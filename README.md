@@ -3,11 +3,9 @@
 * [EN](#en)
     * [Sentiment Analysis — EDA](#sentiment-analysis--eda)
     * [Model Training & Evaluation](#model-training--evaluation)
-    * [Summary](#summary)
 * [RU](#ru)
     * [Анализ — EDA](#анализ--eda)
     * [Обучение и оценка модели](#обучение-и-оценка-модели)
-    * [Краткое содержание](#краткое-содержание)
 
 
 # *EN*
@@ -198,15 +196,6 @@ Models and metrics saved to `/models/`:
 
 ---
 
-## Summary
-
-- TF-IDF + Logistic Regression is the most accurate and interpretable
-- Naive Bayes performs well and trains very fast
-- Word2Vec + Random Forest has promise, but needs more tuning
-- Text preprocessing is essential for performance
-
----
-
 # *RU*
 
 # Анализ — EDA
@@ -389,14 +378,3 @@ imdb-sentiment-analysis-nlp/
 - `w2v_clf.pkl`
 - `w2v_embedding.model`
 - `w2v_metrics.json`
-
----
-
-## Краткое содержание
-
-- TF-IDF + логистическая регрессия — наиболее точный и интерпретируемый алгоритм.
-- Наивный байесовский алгоритм хорошо работает и очень быстро обучается.
-- Word2Vec + случайный лес — многообещающий алгоритм, но требует дополнительной настройки.
-- Предварительная обработка текста критически важна для производительности.
-
----
